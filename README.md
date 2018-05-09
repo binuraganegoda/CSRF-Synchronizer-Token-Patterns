@@ -1,1 +1,0 @@
-# CSRF-Synchronizer-Token-Patterns
