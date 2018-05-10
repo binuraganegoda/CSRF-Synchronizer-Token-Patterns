@@ -4,7 +4,7 @@
 <p> <b> Default Username : admin  </b>  </p>
 <p> <b> Default Password : 123  </b>  </p>
 
-#Desgin and Developed by : Binura Ganegoda
-#Mail : asviganegoda@gmail.com
+<p> <b> Desgin and Developed by : Binura Ganegoda </b>  </p>
+<p> <b> Mail : asviganegoda@gmail.com </b>  </p>
   
 #For more info : http://whitehatuser.blogspot.com/2018/05/csrf-protection-with-synchronizer-token.html
